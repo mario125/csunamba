@@ -1,0 +1,64 @@
+[27-May-2020 04:02:00 UTC] PHP Warning:  require_once(C:/xampp/htdocs/opencart_so_ladaz/system/startup.php): failed to open stream: No such file or directory in /home/dlauravt/public_html/index.php on line 17
+[27-May-2020 04:02:00 UTC] PHP Fatal error:  require_once(): Failed opening required 'C:/xampp/htdocs/opencart_so_ladaz/system/startup.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/dlauravt/public_html/index.php on line 17
+[27-May-2020 04:03:20 UTC] PHP Warning:  fopen(/home/storage/logs/error.log): failed to open stream: No such file or directory in /home/dlauravt/public_html/system/library/log.php on line 22
+[27-May-2020 04:03:20 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/dlauravt/public_html/system/library/log.php on line 31
+[27-May-2020 04:03:20 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/dlauravt/public_html/system/library/log.php on line 31
+[27-May-2020 04:03:20 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/dlauravt/public_html/system/library/log.php on line 31
+[27-May-2020 04:03:20 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/dlauravt/public_html/system/library/log.php on line 31
+[27-May-2020 04:03:20 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/dlauravt/public_html/system/library/log.php on line 31
+[27-May-2020 04:03:20 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/dlauravt/public_html/system/library/log.php on line 31
+[27-May-2020 04:03:20 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/dlauravt/public_html/system/library/log.php on line 31
+[27-May-2020 04:03:20 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/dlauravt/public_html/system/library/log.php on line 31
+[27-May-2020 04:03:20 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/dlauravt/public_html/system/library/log.php on line 31
+[27-May-2020 04:03:20 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/dlauravt/public_html/system/library/log.php on line 31
+[27-May-2020 04:03:20 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/dlauravt/public_html/system/library/log.php on line 31
+[27-May-2020 04:03:20 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/dlauravt/public_html/system/library/log.php on line 31
+[27-May-2020 04:03:20 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/dlauravt/public_html/system/library/log.php on line 31
+[27-May-2020 04:03:20 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/dlauravt/public_html/system/library/log.php on line 31
+[27-May-2020 04:03:20 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/dlauravt/public_html/system/library/log.php on line 31
+[27-May-2020 04:03:20 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/dlauravt/public_html/system/library/log.php on line 31
+[27-May-2020 04:03:20 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/dlauravt/public_html/system/library/log.php on line 31
+[27-May-2020 04:03:20 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/dlauravt/public_html/system/library/log.php on line 31
+[27-May-2020 04:03:20 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/dlauravt/public_html/system/library/log.php on line 31
+[27-May-2020 04:03:20 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/dlauravt/public_html/system/library/log.php on line 31
+[27-May-2020 04:03:20 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/dlauravt/public_html/system/library/log.php on line 31
+[27-May-2020 04:03:20 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/dlauravt/public_html/system/library/log.php on line 31
+[27-May-2020 04:03:20 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/dlauravt/public_html/system/library/log.php on line 31
+[27-May-2020 04:03:20 UTC] PHP Fatal error:  Uncaught Twig_Error_Loader: Unable to find template "/template/soconfig/icon-defs.twig" (looked into: /home/dlauravt/public_html/catalog/view/theme) in "so-ladaz/template/common/footer.twig" at line 7. in /home/dlauravt/public_html/system/library/template/Twig/Loader/Filesystem.php:215
+Stack trace:
+#0 /home/dlauravt/public_html/system/library/template/Twig/Loader/Filesystem.php(139): Twig_Loader_Filesystem->findTemplate('/template/socon...')
+#1 /home/dlauravt/public_html/system/library/template/Twig/Environment.php(314): Twig_Loader_Filesystem->getCacheKey('/template/socon...')
+#2 /home/dlauravt/public_html/system/library/template/Twig/Environment.php(380): Twig_Environment->getTemplateClass('/template/socon...', NULL)
+#3 /home/dlauravt/public_html/system/library/template/Twig/Template.php(286): Twig_Environment->loadTemplate('/template/socon...', NULL)
+#4 /home/dlauravt/public_html/system/library/template/Twig/Environment.php(405) : eval()'d code(31): Twig_Template->loadTemplate('/template/socon...', 'so-lad in /home/dlauravt/public_html/system/library/template/Twig/Loader/Filesystem.php on line 215
+[27-May-2020 04:03:20 UTC] PHP Warning:  fopen(/home/storage/logs/error.log): failed to open stream: No such file or directory in /home/dlauravt/public_html/system/library/log.php on line 22
+[27-May-2020 04:03:20 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/dlauravt/public_html/system/library/log.php on line 31
+[27-May-2020 04:03:20 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/dlauravt/public_html/system/library/log.php on line 31
+[27-May-2020 04:03:20 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/dlauravt/public_html/system/library/log.php on line 31
+[27-May-2020 04:03:20 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/dlauravt/public_html/system/library/log.php on line 31
+[27-May-2020 04:03:21 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/dlauravt/public_html/system/library/log.php on line 31
+[27-May-2020 04:03:21 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/dlauravt/public_html/system/library/log.php on line 31
+[27-May-2020 04:03:21 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/dlauravt/public_html/system/library/log.php on line 31
+[27-May-2020 04:03:21 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/dlauravt/public_html/system/library/log.php on line 31
+[27-May-2020 04:03:21 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/dlauravt/public_html/system/library/log.php on line 31
+[27-May-2020 04:03:21 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/dlauravt/public_html/system/library/log.php on line 31
+[27-May-2020 04:03:21 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/dlauravt/public_html/system/library/log.php on line 31
+[27-May-2020 04:03:21 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/dlauravt/public_html/system/library/log.php on line 31
+[27-May-2020 04:03:21 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/dlauravt/public_html/system/library/log.php on line 31
+[27-May-2020 04:03:21 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/dlauravt/public_html/system/library/log.php on line 31
+[27-May-2020 04:03:21 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/dlauravt/public_html/system/library/log.php on line 31
+[27-May-2020 04:03:21 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/dlauravt/public_html/system/library/log.php on line 31
+[27-May-2020 04:03:21 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/dlauravt/public_html/system/library/log.php on line 31
+[27-May-2020 04:03:21 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/dlauravt/public_html/system/library/log.php on line 31
+[27-May-2020 04:03:21 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/dlauravt/public_html/system/library/log.php on line 31
+[27-May-2020 04:03:21 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/dlauravt/public_html/system/library/log.php on line 31
+[27-May-2020 04:03:21 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/dlauravt/public_html/system/library/log.php on line 31
+[27-May-2020 04:03:21 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/dlauravt/public_html/system/library/log.php on line 31
+[27-May-2020 04:03:21 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/dlauravt/public_html/system/library/log.php on line 31
+[27-May-2020 04:03:21 UTC] PHP Fatal error:  Uncaught Twig_Error_Loader: Unable to find template "/template/soconfig/icon-defs.twig" (looked into: /home/dlauravt/public_html/catalog/view/theme) in "so-ladaz/template/common/footer.twig" at line 7. in /home/dlauravt/public_html/system/library/template/Twig/Loader/Filesystem.php:215
+Stack trace:
+#0 /home/dlauravt/public_html/system/library/template/Twig/Loader/Filesystem.php(139): Twig_Loader_Filesystem->findTemplate('/template/socon...')
+#1 /home/dlauravt/public_html/system/library/template/Twig/Environment.php(314): Twig_Loader_Filesystem->getCacheKey('/template/socon...')
+#2 /home/dlauravt/public_html/system/library/template/Twig/Environment.php(380): Twig_Environment->getTemplateClass('/template/socon...', NULL)
+#3 /home/dlauravt/public_html/system/library/template/Twig/Template.php(286): Twig_Environment->loadTemplate('/template/socon...', NULL)
+#4 /home/dlauravt/public_html/system/library/template/Twig/Environment.php(405) : eval()'d code(31): Twig_Template->loadTemplate('/template/socon...', 'so-lad in /home/dlauravt/public_html/system/library/template/Twig/Loader/Filesystem.php on line 215

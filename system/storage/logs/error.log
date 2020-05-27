@@ -1,0 +1,173 @@
+2020-05-04 19:59:42 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\opencart_so_ladaz\system\library\mail\mail.php on line 77
+2020-05-04 19:59:44 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\opencart_so_ladaz\system\library\mail\mail.php on line 77
+2020-05-04 19:59:46 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\opencart_so_ladaz\system\library\mail\mail.php on line 77
+2020-05-04 19:59:48 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\opencart_so_ladaz\system\library\mail\mail.php on line 77
+2020-05-04 19:59:50 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\opencart_so_ladaz\system\library\mail\mail.php on line 77
+2020-05-04 19:59:52 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\opencart_so_ladaz\system\library\mail\mail.php on line 77
+2020-05-04 19:59:54 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\opencart_so_ladaz\system\library\mail\mail.php on line 77
+2020-05-04 19:59:56 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\opencart_so_ladaz\system\library\mail\mail.php on line 77
+2020-05-04 19:59:58 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\opencart_so_ladaz\system\library\mail\mail.php on line 77
+2020-05-04 20:00:00 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\opencart_so_ladaz\system\library\mail\mail.php on line 77
+2020-05-05 0:09:46 - PHP Notice:  Undefined index: head_name in C:\xampp\htdocs\opencart_so_ladaz\catalog\controller\extension\module\so_basic_products.php on line 69
+2020-05-05 0:09:50 - PHP Notice:  Undefined index: head_name in C:\xampp\htdocs\opencart_so_ladaz\catalog\controller\extension\module\so_basic_products.php on line 69
+2020-05-05 0:22:51 - PHP Notice:  Undefined index: head_name in C:\xampp\htdocs\opencart_so_ladaz\catalog\controller\extension\module\so_basic_products.php on line 69
+2020-05-05 0:22:52 - PHP Notice:  Undefined index: head_name in C:\xampp\htdocs\opencart_so_ladaz\catalog\controller\extension\module\so_basic_products.php on line 69
+2020-05-06 1:05:39 - PHP Notice:  Undefined index: head_name in C:\xampp\htdocs\opencart_so_ladaz\catalog\controller\extension\module\so_basic_products.php on line 69
+2020-05-06 1:05:40 - PHP Notice:  Undefined index: head_name in C:\xampp\htdocs\opencart_so_ladaz\catalog\controller\extension\module\so_basic_products.php on line 69
+2020-05-06 12:47:17 - PHP Notice:  Undefined index: head_name in C:\xampp\htdocs\opencart_so_ladaz\catalog\controller\extension\module\so_basic_products.php on line 69
+2020-05-06 12:47:18 - PHP Notice:  Undefined index: head_name in C:\xampp\htdocs\opencart_so_ladaz\catalog\controller\extension\module\so_basic_products.php on line 69
+2020-05-06 12:50:18 - PHP Notice:  Undefined offset: 3 in C:\xampp\htdocs\opencart_so_ladaz\catalog\controller\extension\module\so_basic_products.php on line 69
+2020-05-06 12:50:19 - PHP Notice:  Undefined offset: 3 in C:\xampp\htdocs\opencart_so_ladaz\catalog\controller\extension\module\so_basic_products.php on line 69
+2020-05-06 12:50:49 - PHP Notice:  Undefined offset: 3 in C:\xampp\htdocs\opencart_so_ladaz\catalog\controller\extension\module\so_basic_products.php on line 69
+2020-05-06 12:50:50 - PHP Notice:  Undefined offset: 3 in C:\xampp\htdocs\opencart_so_ladaz\catalog\controller\extension\module\so_basic_products.php on line 69
+2020-05-06 12:51:03 - PHP Notice:  Array to string conversion in C:\xampp\htdocs\opencart_so_ladaz\system\library\template\Twig\Environment.php(405) : eval()'d code on line 36
+2020-05-06 12:51:04 - PHP Notice:  Array to string conversion in C:\xampp\htdocs\opencart_so_ladaz\system\library\template\Twig\Environment.php(405) : eval()'d code on line 36
+2020-05-06 12:51:46 - PHP Notice:  Array to string conversion in C:\xampp\htdocs\opencart_so_ladaz\system\library\template\Twig\Environment.php(405) : eval()'d code on line 36
+2020-05-06 12:51:46 - PHP Notice:  Array to string conversion in C:\xampp\htdocs\opencart_so_ladaz\system\library\template\Twig\Environment.php(405) : eval()'d code on line 36
+2020-05-06 12:53:10 - PHP Notice:  Array to string conversion in C:\xampp\htdocs\opencart_so_ladaz\system\library\template\Twig\Environment.php(405) : eval()'d code on line 36
+2020-05-06 12:53:11 - PHP Notice:  Array to string conversion in C:\xampp\htdocs\opencart_so_ladaz\system\library\template\Twig\Environment.php(405) : eval()'d code on line 36
+2020-05-06 12:53:57 - PHP Notice:  Array to string conversion in C:\xampp\htdocs\opencart_so_ladaz\system\library\template\Twig\Environment.php(405) : eval()'d code on line 36
+2020-05-06 12:53:58 - PHP Notice:  Array to string conversion in C:\xampp\htdocs\opencart_so_ladaz\system\library\template\Twig\Environment.php(405) : eval()'d code on line 36
+2020-05-06 13:04:26 - PHP Notice:  Undefined offset: 3 in C:\xampp\htdocs\opencart_so_ladaz\catalog\controller\extension\module\so_basic_products.php on line 69
+2020-05-06 13:04:27 - PHP Notice:  Undefined offset: 3 in C:\xampp\htdocs\opencart_so_ladaz\catalog\controller\extension\module\so_basic_products.php on line 69
+2020-05-06 13:07:12 - PHP Notice:  Undefined offset: 3 in C:\xampp\htdocs\opencart_so_ladaz\catalog\controller\extension\module\so_basic_products.php on line 69
+2020-05-06 13:07:13 - PHP Notice:  Undefined offset: 3 in C:\xampp\htdocs\opencart_so_ladaz\catalog\controller\extension\module\so_basic_products.php on line 69
+2020-05-06 13:10:03 - PHP Notice:  Undefined offset: 3 in C:\xampp\htdocs\opencart_so_ladaz\catalog\controller\extension\module\so_basic_products.php on line 69
+2020-05-06 13:10:04 - PHP Notice:  Undefined offset: 3 in C:\xampp\htdocs\opencart_so_ladaz\catalog\controller\extension\module\so_basic_products.php on line 69
+2020-05-06 13:10:05 - PHP Notice:  Undefined offset: 3 in C:\xampp\htdocs\opencart_so_ladaz\catalog\controller\extension\module\so_basic_products.php on line 69
+2020-05-06 13:45:30 - PHP Notice:  Undefined offset: 3 in C:\xampp\htdocs\opencart_so_ladaz\catalog\controller\extension\module\so_basic_products.php on line 69
+2020-05-06 13:45:31 - PHP Notice:  Undefined offset: 3 in C:\xampp\htdocs\opencart_so_ladaz\catalog\controller\extension\module\so_basic_products.php on line 69
+2020-05-06 13:51:14 - PHP Notice:  Undefined offset: 3 in C:\xampp\htdocs\opencart_so_ladaz\catalog\controller\extension\module\so_basic_products.php on line 69
+2020-05-06 13:51:15 - PHP Notice:  Undefined offset: 3 in C:\xampp\htdocs\opencart_so_ladaz\catalog\controller\extension\module\so_basic_products.php on line 69
+2020-05-06 16:21:39 - PHP Notice:  Undefined offset: 3 in C:\xampp\htdocs\opencart_so_ladaz\catalog\controller\extension\module\so_basic_products.php on line 69
+2020-05-06 16:21:40 - PHP Notice:  Undefined offset: 3 in C:\xampp\htdocs\opencart_so_ladaz\catalog\controller\extension\module\so_basic_products.php on line 69
+2020-05-06 18:03:09 - PHP Notice:  Undefined offset: 3 in C:\xampp\htdocs\opencart_so_ladaz\catalog\controller\extension\module\so_basic_products.php on line 69
+2020-05-06 18:03:11 - PHP Notice:  Undefined offset: 3 in C:\xampp\htdocs\opencart_so_ladaz\catalog\controller\extension\module\so_basic_products.php on line 69
+2020-05-06 18:09:01 - PHP Notice:  Undefined offset: 3 in C:\xampp\htdocs\opencart_so_ladaz\catalog\controller\extension\module\so_basic_products.php on line 69
+2020-05-06 18:09:02 - PHP Notice:  Undefined offset: 3 in C:\xampp\htdocs\opencart_so_ladaz\catalog\controller\extension\module\so_basic_products.php on line 69
+2020-05-06 18:19:12 - PHP Notice:  Undefined offset: 3 in C:\xampp\htdocs\opencart_so_ladaz\catalog\controller\extension\module\so_basic_products.php on line 69
+2020-05-06 18:19:14 - PHP Notice:  Undefined offset: 3 in C:\xampp\htdocs\opencart_so_ladaz\catalog\controller\extension\module\so_basic_products.php on line 69
+2020-05-06 18:23:55 - PHP Notice:  Undefined offset: 3 in C:\xampp\htdocs\opencart_so_ladaz\catalog\controller\extension\module\so_basic_products.php on line 69
+2020-05-06 18:26:00 - PHP Notice:  Undefined offset: 3 in C:\xampp\htdocs\opencart_so_ladaz\catalog\controller\extension\module\so_basic_products.php on line 69
+2020-05-06 18:26:01 - PHP Notice:  Undefined offset: 3 in C:\xampp\htdocs\opencart_so_ladaz\catalog\controller\extension\module\so_basic_products.php on line 69
+2020-05-06 18:28:58 - PHP Notice:  Undefined offset: 3 in C:\xampp\htdocs\opencart_so_ladaz\catalog\controller\extension\module\so_basic_products.php on line 69
+2020-05-06 18:29:01 - PHP Notice:  Undefined offset: 3 in C:\xampp\htdocs\opencart_so_ladaz\catalog\controller\extension\module\so_basic_products.php on line 69
+2020-05-06 18:34:26 - PHP Notice:  Undefined offset: 3 in C:\xampp\htdocs\opencart_so_ladaz\catalog\controller\extension\module\so_basic_products.php on line 69
+2020-05-06 18:34:27 - PHP Notice:  Undefined offset: 3 in C:\xampp\htdocs\opencart_so_ladaz\catalog\controller\extension\module\so_basic_products.php on line 69
+2020-05-06 18:37:59 - PHP Notice:  Undefined offset: 3 in C:\xampp\htdocs\opencart_so_ladaz\catalog\controller\extension\module\so_basic_products.php on line 69
+2020-05-06 18:38:00 - PHP Notice:  Undefined offset: 3 in C:\xampp\htdocs\opencart_so_ladaz\catalog\controller\extension\module\so_basic_products.php on line 69
+2020-05-06 18:43:27 - PHP Notice:  Undefined offset: 3 in C:\xampp\htdocs\opencart_so_ladaz\catalog\controller\extension\module\so_basic_products.php on line 69
+2020-05-06 18:43:28 - PHP Notice:  Undefined offset: 3 in C:\xampp\htdocs\opencart_so_ladaz\catalog\controller\extension\module\so_basic_products.php on line 69
+2020-05-06 18:49:23 - PHP Notice:  Undefined offset: 3 in C:\xampp\htdocs\opencart_so_ladaz\catalog\controller\extension\module\so_basic_products.php on line 69
+2020-05-06 18:49:24 - PHP Notice:  Undefined offset: 3 in C:\xampp\htdocs\opencart_so_ladaz\catalog\controller\extension\module\so_basic_products.php on line 69
+2020-05-06 19:01:31 - PHP Notice:  Undefined offset: 3 in C:\xampp\htdocs\opencart_so_ladaz\catalog\controller\extension\module\so_basic_products.php on line 69
+2020-05-06 19:01:33 - PHP Notice:  Undefined offset: 3 in C:\xampp\htdocs\opencart_so_ladaz\catalog\controller\extension\module\so_basic_products.php on line 69
+2020-05-06 19:08:44 - PHP Notice:  Undefined offset: 3 in C:\xampp\htdocs\opencart_so_ladaz\catalog\controller\extension\module\so_basic_products.php on line 69
+2020-05-06 19:08:46 - PHP Notice:  Undefined offset: 3 in C:\xampp\htdocs\opencart_so_ladaz\catalog\controller\extension\module\so_basic_products.php on line 69
+2020-05-06 19:15:52 - PHP Notice:  Undefined offset: 3 in C:\xampp\htdocs\opencart_so_ladaz\catalog\controller\extension\module\so_basic_products.php on line 69
+2020-05-06 19:15:53 - PHP Notice:  Undefined offset: 3 in C:\xampp\htdocs\opencart_so_ladaz\catalog\controller\extension\module\so_basic_products.php on line 69
+2020-05-06 19:17:56 - PHP Notice:  Undefined offset: 3 in C:\xampp\htdocs\opencart_so_ladaz\catalog\controller\extension\module\so_basic_products.php on line 69
+2020-05-06 19:17:58 - PHP Notice:  Undefined offset: 3 in C:\xampp\htdocs\opencart_so_ladaz\catalog\controller\extension\module\so_basic_products.php on line 69
+2020-05-06 19:18:33 - PHP Notice:  Undefined offset: 3 in C:\xampp\htdocs\opencart_so_ladaz\catalog\controller\extension\module\so_basic_products.php on line 69
+2020-05-06 19:18:34 - PHP Notice:  Undefined offset: 3 in C:\xampp\htdocs\opencart_so_ladaz\catalog\controller\extension\module\so_basic_products.php on line 69
+2020-05-06 19:19:18 - PHP Notice:  Undefined offset: 3 in C:\xampp\htdocs\opencart_so_ladaz\catalog\controller\extension\module\so_basic_products.php on line 69
+2020-05-06 19:19:19 - PHP Notice:  Undefined offset: 3 in C:\xampp\htdocs\opencart_so_ladaz\catalog\controller\extension\module\so_basic_products.php on line 69
+2020-05-06 19:27:02 - PHP Notice:  Undefined offset: 3 in C:\xampp\htdocs\opencart_so_ladaz\catalog\controller\extension\module\so_basic_products.php on line 69
+2020-05-06 19:27:04 - PHP Notice:  Undefined offset: 3 in C:\xampp\htdocs\opencart_so_ladaz\catalog\controller\extension\module\so_basic_products.php on line 69
+2020-05-06 19:27:06 - PHP Notice:  Undefined offset: 3 in C:\xampp\htdocs\opencart_so_ladaz\catalog\controller\extension\module\so_basic_products.php on line 69
+2020-05-06 19:27:06 - PHP Notice:  Undefined offset: 3 in C:\xampp\htdocs\opencart_so_ladaz\catalog\controller\extension\module\so_basic_products.php on line 69
+2020-05-06 19:27:36 - PHP Notice:  Undefined offset: 3 in C:\xampp\htdocs\opencart_so_ladaz\catalog\controller\extension\module\so_basic_products.php on line 69
+2020-05-06 19:27:37 - PHP Notice:  Undefined offset: 3 in C:\xampp\htdocs\opencart_so_ladaz\catalog\controller\extension\module\so_basic_products.php on line 69
+2020-05-06 19:35:29 - PHP Notice:  Undefined offset: 3 in C:\xampp\htdocs\opencart_so_ladaz\catalog\controller\extension\module\so_basic_products.php on line 69
+2020-05-06 19:35:29 - PHP Notice:  Undefined offset: 3 in C:\xampp\htdocs\opencart_so_ladaz\catalog\controller\extension\module\so_basic_products.php on line 69
+2020-05-06 19:41:49 - PHP Notice:  Undefined offset: 3 in C:\xampp\htdocs\opencart_so_ladaz\catalog\controller\extension\module\so_basic_products.php on line 69
+2020-05-06 19:41:50 - PHP Notice:  Undefined offset: 3 in C:\xampp\htdocs\opencart_so_ladaz\catalog\controller\extension\module\so_basic_products.php on line 69
+2020-05-06 19:44:10 - PHP Notice:  Undefined offset: 3 in C:\xampp\htdocs\opencart_so_ladaz\catalog\controller\extension\module\so_basic_products.php on line 69
+2020-05-06 19:44:11 - PHP Notice:  Undefined offset: 3 in C:\xampp\htdocs\opencart_so_ladaz\catalog\controller\extension\module\so_basic_products.php on line 69
+2020-05-06 19:55:10 - PHP Notice:  Undefined offset: 3 in C:\xampp\htdocs\opencart_so_ladaz\catalog\controller\extension\module\so_basic_products.php on line 69
+2020-05-06 19:55:12 - PHP Notice:  Undefined offset: 3 in C:\xampp\htdocs\opencart_so_ladaz\catalog\controller\extension\module\so_basic_products.php on line 69
+2020-05-06 20:02:25 - PHP Notice:  Undefined offset: 3 in C:\xampp\htdocs\opencart_so_ladaz\catalog\controller\extension\module\so_basic_products.php on line 69
+2020-05-06 20:02:26 - PHP Notice:  Undefined offset: 3 in C:\xampp\htdocs\opencart_so_ladaz\catalog\controller\extension\module\so_basic_products.php on line 69
+2020-05-06 21:24:58 - PHP Notice:  Undefined offset: 3 in C:\xampp\htdocs\opencart_so_ladaz\catalog\controller\extension\module\so_basic_products.php on line 69
+2020-05-06 21:25:00 - PHP Notice:  Undefined offset: 3 in C:\xampp\htdocs\opencart_so_ladaz\catalog\controller\extension\module\so_basic_products.php on line 69
+2020-05-06 21:47:44 - PHP Notice:  Undefined offset: 3 in C:\xampp\htdocs\opencart_so_ladaz\catalog\controller\extension\module\so_basic_products.php on line 69
+2020-05-06 21:47:46 - PHP Notice:  Undefined offset: 3 in C:\xampp\htdocs\opencart_so_ladaz\catalog\controller\extension\module\so_basic_products.php on line 69
+2020-05-06 21:47:53 - PHP Notice:  Undefined offset: 3 in C:\xampp\htdocs\opencart_so_ladaz\catalog\controller\extension\module\so_basic_products.php on line 69
+2020-05-06 21:47:55 - PHP Notice:  Undefined offset: 3 in C:\xampp\htdocs\opencart_so_ladaz\catalog\controller\extension\module\so_basic_products.php on line 69
+2020-05-06 21:48:02 - PHP Notice:  Undefined offset: 3 in C:\xampp\htdocs\opencart_so_ladaz\catalog\controller\extension\module\so_basic_products.php on line 69
+2020-05-06 21:48:03 - PHP Notice:  Undefined offset: 3 in C:\xampp\htdocs\opencart_so_ladaz\catalog\controller\extension\module\so_basic_products.php on line 69
+2020-05-06 21:48:06 - PHP Notice:  Undefined offset: 3 in C:\xampp\htdocs\opencart_so_ladaz\catalog\controller\extension\module\so_basic_products.php on line 69
+2020-05-06 21:48:07 - PHP Notice:  Undefined offset: 3 in C:\xampp\htdocs\opencart_so_ladaz\catalog\controller\extension\module\so_basic_products.php on line 69
+2020-05-06 23:29:43 - PHP Notice:  Undefined offset: 3 in C:\xampp\htdocs\opencart_so_ladaz\catalog\controller\extension\module\so_basic_products.php on line 69
+2020-05-06 23:29:46 - PHP Notice:  Undefined offset: 3 in C:\xampp\htdocs\opencart_so_ladaz\catalog\controller\extension\module\so_basic_products.php on line 69
+2020-05-07 1:05:54 - PHP Notice:  Undefined offset: 3 in C:\xampp\htdocs\opencart_so_ladaz\catalog\controller\extension\module\so_basic_products.php on line 69
+2020-05-07 1:05:56 - PHP Notice:  Undefined offset: 3 in C:\xampp\htdocs\opencart_so_ladaz\catalog\controller\extension\module\so_basic_products.php on line 69
+2020-05-07 1:10:18 - PHP Notice:  Undefined offset: 3 in C:\xampp\htdocs\opencart_so_ladaz\catalog\controller\extension\module\so_basic_products.php on line 69
+2020-05-07 1:10:19 - PHP Notice:  Undefined offset: 3 in C:\xampp\htdocs\opencart_so_ladaz\catalog\controller\extension\module\so_basic_products.php on line 69
+2020-05-07 1:10:46 - PHP Notice:  Undefined offset: 3 in C:\xampp\htdocs\opencart_so_ladaz\catalog\controller\extension\module\so_basic_products.php on line 69
+2020-05-07 1:10:47 - PHP Notice:  Undefined offset: 3 in C:\xampp\htdocs\opencart_so_ladaz\catalog\controller\extension\module\so_basic_products.php on line 69
+2020-05-07 1:11:31 - PHP Notice:  Undefined offset: 3 in C:\xampp\htdocs\opencart_so_ladaz\catalog\controller\extension\module\so_basic_products.php on line 69
+2020-05-07 1:11:32 - PHP Notice:  Undefined offset: 3 in C:\xampp\htdocs\opencart_so_ladaz\catalog\controller\extension\module\so_basic_products.php on line 69
+2020-05-07 1:12:09 - PHP Notice:  Undefined offset: 3 in C:\xampp\htdocs\opencart_so_ladaz\catalog\controller\extension\module\so_basic_products.php on line 69
+2020-05-07 1:12:10 - PHP Notice:  Undefined offset: 3 in C:\xampp\htdocs\opencart_so_ladaz\catalog\controller\extension\module\so_basic_products.php on line 69
+2020-05-07 1:12:44 - PHP Notice:  Undefined offset: 3 in C:\xampp\htdocs\opencart_so_ladaz\catalog\controller\extension\module\so_basic_products.php on line 69
+2020-05-07 1:12:45 - PHP Notice:  Undefined offset: 3 in C:\xampp\htdocs\opencart_so_ladaz\catalog\controller\extension\module\so_basic_products.php on line 69
+2020-05-07 1:26:39 - PHP Notice:  Undefined offset: 3 in C:\xampp\htdocs\opencart_so_ladaz\catalog\controller\extension\module\so_basic_products.php on line 69
+2020-05-07 1:26:41 - PHP Notice:  Undefined offset: 3 in C:\xampp\htdocs\opencart_so_ladaz\catalog\controller\extension\module\so_basic_products.php on line 69
+2020-05-08 5:51:37 - PHP Notice:  Undefined offset: 3 in C:\xampp\htdocs\opencart_so_ladaz\catalog\controller\extension\module\so_basic_products.php on line 69
+2020-05-08 5:51:39 - PHP Notice:  Undefined offset: 3 in C:\xampp\htdocs\opencart_so_ladaz\catalog\controller\extension\module\so_basic_products.php on line 69
+2020-05-08 5:55:02 - PHP Notice:  Undefined offset: 3 in C:\xampp\htdocs\opencart_so_ladaz\catalog\controller\extension\module\so_basic_products.php on line 69
+2020-05-08 5:55:04 - PHP Notice:  Undefined offset: 3 in C:\xampp\htdocs\opencart_so_ladaz\catalog\controller\extension\module\so_basic_products.php on line 69
+2020-05-08 6:04:59 - PHP Notice:  Undefined offset: 3 in C:\xampp\htdocs\opencart_so_ladaz\catalog\controller\extension\module\so_basic_products.php on line 69
+2020-05-08 6:05:01 - PHP Notice:  Undefined offset: 3 in C:\xampp\htdocs\opencart_so_ladaz\catalog\controller\extension\module\so_basic_products.php on line 69
+2020-05-08 6:05:39 - PHP Notice:  Undefined offset: 3 in C:\xampp\htdocs\opencart_so_ladaz\catalog\controller\extension\module\so_basic_products.php on line 69
+2020-05-08 6:05:40 - PHP Notice:  Undefined offset: 3 in C:\xampp\htdocs\opencart_so_ladaz\catalog\controller\extension\module\so_basic_products.php on line 69
+2020-05-08 15:34:14 - PHP Notice:  Undefined offset: 3 in C:\xampp\htdocs\opencart_so_ladaz\catalog\controller\extension\module\so_basic_products.php on line 69
+2020-05-08 15:34:23 - PHP Notice:  Undefined offset: 3 in C:\xampp\htdocs\opencart_so_ladaz\catalog\controller\extension\module\so_basic_products.php on line 69
+2020-05-08 15:34:50 - PHP Notice:  Undefined offset: 3 in C:\xampp\htdocs\opencart_so_ladaz\catalog\controller\extension\module\so_basic_products.php on line 69
+2020-05-08 15:34:53 - PHP Notice:  Undefined offset: 3 in C:\xampp\htdocs\opencart_so_ladaz\catalog\controller\extension\module\so_basic_products.php on line 69
+2020-05-08 15:47:54 - PHP Notice:  Undefined offset: 3 in C:\xampp\htdocs\opencart_so_ladaz\catalog\controller\extension\module\so_basic_products.php on line 69
+2020-05-08 15:47:56 - PHP Notice:  Undefined offset: 3 in C:\xampp\htdocs\opencart_so_ladaz\catalog\controller\extension\module\so_basic_products.php on line 69
+2020-05-08 16:25:56 - PHP Notice:  Undefined offset: 3 in C:\xampp\htdocs\opencart_so_ladaz\catalog\controller\extension\module\so_basic_products.php on line 69
+2020-05-08 16:25:59 - PHP Notice:  Undefined offset: 3 in C:\xampp\htdocs\opencart_so_ladaz\catalog\controller\extension\module\so_basic_products.php on line 69
+2020-05-08 16:27:43 - PHP Notice:  Undefined offset: 3 in C:\xampp\htdocs\opencart_so_ladaz\catalog\controller\extension\module\so_basic_products.php on line 69
+2020-05-08 16:27:43 - PHP Notice:  Undefined offset: 3 in C:\xampp\htdocs\opencart_so_ladaz\catalog\controller\extension\module\so_basic_products.php on line 69
+2020-05-08 16:27:43 - PHP Notice:  Undefined offset: 3 in C:\xampp\htdocs\opencart_so_ladaz\catalog\controller\extension\module\so_basic_products.php on line 69
+2020-05-08 16:27:43 - PHP Notice:  Undefined offset: 3 in C:\xampp\htdocs\opencart_so_ladaz\catalog\controller\extension\module\so_basic_products.php on line 69
+2020-05-08 16:27:43 - PHP Notice:  Undefined offset: 3 in C:\xampp\htdocs\opencart_so_ladaz\catalog\controller\extension\module\so_basic_products.php on line 69
+2020-05-08 16:27:43 - PHP Notice:  Undefined offset: 3 in C:\xampp\htdocs\opencart_so_ladaz\catalog\controller\extension\module\so_basic_products.php on line 69
+2020-05-08 16:27:44 - PHP Notice:  Undefined offset: 3 in C:\xampp\htdocs\opencart_so_ladaz\catalog\controller\extension\module\so_basic_products.php on line 69
+2020-05-08 22:46:59 - PHP Notice:  Undefined offset: 3 in C:\xampp\htdocs\opencart_so_ladaz\catalog\controller\extension\module\so_basic_products.php on line 69
+2020-05-08 22:47:00 - PHP Notice:  Undefined offset: 3 in C:\xampp\htdocs\opencart_so_ladaz\catalog\controller\extension\module\so_basic_products.php on line 69
+2020-05-09 0:25:09 - PHP Notice:  Undefined offset: 3 in C:\xampp\htdocs\opencart_so_ladaz\catalog\controller\extension\module\so_basic_products.php on line 69
+2020-05-09 0:25:10 - PHP Notice:  Undefined offset: 3 in C:\xampp\htdocs\opencart_so_ladaz\catalog\controller\extension\module\so_basic_products.php on line 69
+2020-05-09 0:27:18 - PHP Notice:  Undefined offset: 3 in C:\xampp\htdocs\opencart_so_ladaz\catalog\controller\extension\module\so_basic_products.php on line 69
+2020-05-09 0:27:19 - PHP Notice:  Undefined offset: 3 in C:\xampp\htdocs\opencart_so_ladaz\catalog\controller\extension\module\so_basic_products.php on line 69
+2020-05-09 0:28:27 - PHP Notice:  Undefined offset: 3 in C:\xampp\htdocs\opencart_so_ladaz\catalog\controller\extension\module\so_basic_products.php on line 69
+2020-05-09 0:28:28 - PHP Notice:  Undefined offset: 3 in C:\xampp\htdocs\opencart_so_ladaz\catalog\controller\extension\module\so_basic_products.php on line 69
+2020-05-09 0:34:56 - PHP Notice:  Undefined offset: 3 in C:\xampp\htdocs\opencart_so_ladaz\catalog\controller\extension\module\so_basic_products.php on line 69
+2020-05-09 0:34:57 - PHP Notice:  Undefined offset: 3 in C:\xampp\htdocs\opencart_so_ladaz\catalog\controller\extension\module\so_basic_products.php on line 69
+2020-05-09 1:51:20 - PHP Notice:  Undefined offset: 3 in C:\xampp\htdocs\opencart_so_ladaz\catalog\controller\extension\module\so_basic_products.php on line 69
+2020-05-09 1:51:22 - PHP Notice:  Undefined offset: 3 in C:\xampp\htdocs\opencart_so_ladaz\catalog\controller\extension\module\so_basic_products.php on line 69
+2020-05-09 1:55:47 - PHP Notice:  Undefined offset: 3 in C:\xampp\htdocs\opencart_so_ladaz\catalog\controller\extension\module\so_basic_products.php on line 69
+2020-05-09 1:55:48 - PHP Notice:  Undefined offset: 3 in C:\xampp\htdocs\opencart_so_ladaz\catalog\controller\extension\module\so_basic_products.php on line 69
+2020-05-09 1:56:30 - PHP Notice:  Undefined offset: 3 in C:\xampp\htdocs\opencart_so_ladaz\catalog\controller\extension\module\so_basic_products.php on line 69
+2020-05-09 1:56:31 - PHP Notice:  Undefined offset: 3 in C:\xampp\htdocs\opencart_so_ladaz\catalog\controller\extension\module\so_basic_products.php on line 69
+2020-05-09 3:32:35 - PHP Notice:  Undefined offset: 3 in C:\xampp\htdocs\opencart_so_ladaz\catalog\controller\extension\module\so_basic_products.php on line 69
+2020-05-09 3:32:37 - PHP Notice:  Undefined offset: 3 in C:\xampp\htdocs\opencart_so_ladaz\catalog\controller\extension\module\so_basic_products.php on line 69
+2020-05-09 3:37:42 - PHP Notice:  Undefined offset: 3 in C:\xampp\htdocs\opencart_so_ladaz\catalog\controller\extension\module\so_basic_products.php on line 69
+2020-05-09 3:37:44 - PHP Notice:  Undefined offset: 3 in C:\xampp\htdocs\opencart_so_ladaz\catalog\controller\extension\module\so_basic_products.php on line 69
+2020-05-09 4:21:20 - PHP Notice:  Undefined offset: 3 in C:\xampp\htdocs\opencart_so_ladaz\catalog\controller\extension\module\so_basic_products.php on line 69
+2020-05-09 4:21:21 - PHP Notice:  Undefined offset: 3 in C:\xampp\htdocs\opencart_so_ladaz\catalog\controller\extension\module\so_basic_products.php on line 69
+2020-05-09 4:27:25 - PHP Notice:  Undefined offset: 3 in C:\xampp\htdocs\opencart_so_ladaz\catalog\controller\extension\module\so_basic_products.php on line 69
+2020-05-09 4:27:26 - PHP Notice:  Undefined offset: 3 in C:\xampp\htdocs\opencart_so_ladaz\catalog\controller\extension\module\so_basic_products.php on line 69
+2020-05-09 4:32:59 - PHP Notice:  Array to string conversion in C:\xampp\htdocs\opencart_so_ladaz\system\library\template\Twig\Environment.php(405) : eval()'d code on line 36
+2020-05-09 4:33:02 - PHP Notice:  Array to string conversion in C:\xampp\htdocs\opencart_so_ladaz\system\library\template\Twig\Environment.php(405) : eval()'d code on line 36
+2020-05-09 4:34:19 - PHP Notice:  Array to string conversion in C:\xampp\htdocs\opencart_so_ladaz\system\library\template\Twig\Environment.php(405) : eval()'d code on line 36
+2020-05-09 4:34:20 - PHP Notice:  Array to string conversion in C:\xampp\htdocs\opencart_so_ladaz\system\library\template\Twig\Environment.php(405) : eval()'d code on line 36
+2020-05-09 5:27:22 - PHP Notice:  Array to string conversion in C:\xampp\htdocs\opencart_so_ladaz\system\library\template\Twig\Environment.php(405) : eval()'d code on line 36
+2020-05-09 5:27:23 - PHP Notice:  Array to string conversion in C:\xampp\htdocs\opencart_so_ladaz\system\library\template\Twig\Environment.php(405) : eval()'d code on line 36
+2020-05-27 5:07:09 - PHP Warning:  count(): Parameter must be an array or an object that implements Countable in C:\xampp\htdocs\PAGINAS\catalog\controller\extension\module\so_latest_blog.php on line 190
+2020-05-27 5:07:11 - PHP Warning:  count(): Parameter must be an array or an object that implements Countable in C:\xampp\htdocs\PAGINAS\catalog\controller\extension\module\so_latest_blog.php on line 190
+2020-05-27 5:07:20 - PHP Warning:  count(): Parameter must be an array or an object that implements Countable in C:\xampp\htdocs\PAGINAS\catalog\controller\extension\module\so_latest_blog.php on line 190
+2020-05-27 5:07:21 - PHP Warning:  count(): Parameter must be an array or an object that implements Countable in C:\xampp\htdocs\PAGINAS\catalog\controller\extension\module\so_latest_blog.php on line 190

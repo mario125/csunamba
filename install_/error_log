@@ -1,0 +1,24 @@
+[27-May-2020 04:13:13 UTC] PHP Fatal error:  Uncaught Exception: Error: Table 'oc_address' already exists<br />Error No: 1050<br />
+
+
+
+CREATE TABLE `oc_address` (
+  `address_id` int(11) NOT NULL,
+  `customer_id` int(11) NOT NULL,
+  `firstname` varchar(32) NOT NULL,
+  `lastname` varchar(32) NOT NULL,
+  `company` varchar(40) NOT NULL,
+  `address_1` varchar(128) NOT NULL,
+  `address_2` varchar(128) NOT NULL,
+  `city` varchar(128) NOT NULL,
+  `postcode` varchar(10) NOT NULL,
+  `country_id` int(11) NOT NULL DEFAULT '0',
+  `zone_id` int(11) NOT NULL DEFAULT '0',
+  `custom_field` text NOT NULL
+) ENGINE=MyISAM DEFAULT CHARSET=utf8;
+ in /home/dlauravt/public_html/system/library/db/mysqli.php:43
+Stack trace:
+#0 /home/dlauravt/public_html/system/library/db.php(45): DB\MySQLi->query('\n\n\n\nCREATE TABL...')
+#1 /home/dlauravt/public_html/install/model/install/install.php(26): DB->query('\n\n\n\nCREATE TABL...')
+#2 /home/dlauravt/public_html/system/storage/modification/system/engine/loader.php(248): ModelInstallInstall->database(Array)
+#3 /home/dlauravt/public_html/ in /home/dlauravt/public_html/system/library/db/mysqli.php on line 43

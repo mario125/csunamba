@@ -1,0 +1,6 @@
+2018-04-03 7:50:48 - 
+
+MOD: Simple Blog
+NOT FOUND!
+CODE: $categories = $this->model_catalog_category->getCategories(0);
+FILE: catalog/controller/common/header.php
